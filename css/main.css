@@ -1,0 +1,103 @@
+/* Inserta tu codigo aqui */
+
+/* Responsive */
+
+
+body {
+	background-color: 	#202020;
+}
+
+/*header*/
+
+.barra-header{
+	background-color: black;
+	height: 70px;
+}
+
+.barra-header img{
+	height: 50px;
+	width: 450px;
+}
+
+.barra-header li{
+	list-style: none;
+	color: white;
+	display: inline;
+}
+
+/*section 1*/
+
+.backgroundimg {
+	background-image: url(../image/header-image.jpg);
+	height: 400px;
+	width: 600px;
+	text-align: center;
+	margin-top: 30px;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	display: table;
+	margin: 0 auto;
+}    
+
+.back-text h1 {
+	font-family: Courgette;
+	font-style: italic;
+	color: #FF9900;
+	font-size: 40px;
+	padding-top: 35px;
+}
+
+.back-text p {
+	font-family: Courgette;
+	font-style: italic;
+	color: white;
+	padding-top: 20px;
+}
+
+.back-text {
+	margin: 0 auto;
+	margin-top: 130px;
+}
+
+.back-text {
+	background-color: black;
+	width: 500px;
+	height: 160px;
+}
+
+/*section  2*/ 
+
+.flw img{
+	width: 352px;
+	height: 352px;
+	margin-top: 30px;
+	position: relative;
+}  
+
+ .txt {
+ 	background-color: black;
+ 	position: absolute;
+ 	width: 352px;
+ 	height: 50px;
+ }
+
+.txt h3 {
+	font-family: Courgette;
+	text-align: center;
+	color: #FF9900;
+}
+
+.txt p {
+	font-family: Courgette;
+	text-align: center;
+	color: white;
+}
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}                                                                                                                                                                                                                                                                                                                                                                  
